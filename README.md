@@ -122,7 +122,6 @@ This project is licensed under the MIT License.
 
 **Creator**
 Tejas Sharma
-Java Backend
 
 Contact -> tejassharma939@gmail.com
 
