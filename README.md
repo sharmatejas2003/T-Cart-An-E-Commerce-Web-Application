@@ -96,7 +96,7 @@ ECommerceProject/
 
 
 **Public Access Using ngrok (Temporary Hosting)**
-When the application is not deployed on a cloud server, it can be exposed publicly using ngrok.
+When the application is not deployed on a cloud server, ngrok can be used to temporarily expose the locally running application to the public internet.
 
 **Steps:**
 ngrok http 8080
