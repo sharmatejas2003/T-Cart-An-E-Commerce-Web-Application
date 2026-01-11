@@ -1,0 +1,6 @@
+/build/
+/target/
+/bin/
+/.settings/
+/Servers/
+*.log
