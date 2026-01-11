@@ -1,4 +1,4 @@
-# 🛒 T-Cart — E-Commerce Web Application (Java)
+#  T-Cart — E-Commerce Web Application (Java)
 
 T-Cart is a full-stack e-commerce web application developed using **Java, JSP, Servlets, JDBC, and MySQL**, following the **MVC (Model–View–Controller)** architecture.  
 The project demonstrates real-world backend concepts such as session management, request routing, database integration, and deployment using **Apache Tomcat**.
@@ -7,7 +7,7 @@ The application is designed for learning and demonstration purposes and can be a
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User Registration & Login (Session-based authentication)
 - Category-wise Product Browsing
@@ -21,7 +21,7 @@ The application is designed for learning and demonstration purposes and can be a
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Backend
 - Java (JDK 17+)
