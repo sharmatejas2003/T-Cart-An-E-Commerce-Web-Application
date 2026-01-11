@@ -32,7 +32,6 @@ The application is designed for learning and demonstration purposes and can be a
 ### Frontend
 - JSP (View layer)
 - HTML5
-- CSS3
 
 ### Database
 - MySQL
